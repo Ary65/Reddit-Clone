@@ -1,7 +1,6 @@
-####
-Reddit Clone
-##
-Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
+#Reddit Clone
+
+##Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
 
 Features
 * Google/Guest Authentication
