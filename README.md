@@ -2,6 +2,9 @@
 
 ## Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
 
+![Realistic Mobile UI Mockup with Aesthetic Gradient Blur Background](https://user-images.githubusercontent.com/87580734/213933393-14eb7d74-709a-4167-8207-8c9d1785b994.png)
+
+
 Features
 * Google/Guest Authentication
 * Create, Join community
