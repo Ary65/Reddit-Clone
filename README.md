@@ -23,5 +23,5 @@ Features
 * Latest posts (instead of home, display this to guest users)
 
 ![iphone-multiple-screens-mockup](https://user-images.githubusercontent.com/87580734/213906453-48d837e5-35a6-43e8-9e2e-ea9944d94024.png)
-![Untitled design (2)](https://user-images.githubusercontent.com/87580734/213847318-0d8bc5bb-770a-401f-bd08-501bd454aa20.png)
+<!-- ![Untitled design (2)](https://user-images.githubusercontent.com/87580734/213847318-0d8bc5bb-770a-401f-bd08-501bd454aa20.png) -->
  
